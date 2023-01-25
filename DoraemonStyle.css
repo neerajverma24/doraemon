@@ -1,0 +1,91 @@
+.box{
+    border:1px solid black;
+    height:700px;
+    width:500px;
+    border-radius: 10px;
+    position: relative;
+    left:480px;
+}
+.name{
+    font-size: 30px;
+}
+.head{
+    border: 1px solid skyblue;
+    height:150px;
+    width:150px;
+    border-radius:75px;
+    background-color: skyblue;
+    position: relative;
+    top:20px;
+    left:170px;
+}
+.gaal{
+    border:1px solid black;
+    height:110px;
+    width:110px;
+    border-radius: 55px;
+    position:relative;
+    left:18px;
+    top:39px;
+    background-color: white;
+}
+.eleft{
+    border:1px solid black;
+    height:37px;
+    width:30px;
+    border-radius: 15px;
+    position:relative;
+    left:40px;
+    top:-96px;
+    background-color: white;
+}
+.leftel{
+    border:1px solid black;
+    height:5px;
+    width:4px;
+    border-radius: 3px;
+    background-color: black;
+    position: relative;
+    top:20px;
+    left:20px;
+}
+.eright{
+    border:1px solid black;
+    height:37px;
+    width:30px;
+    border-radius: 15px;
+    position:relative;
+    left:70px;
+    top:-135px;
+    background-color: white;
+}
+.rightel{
+    border:1px solid black;
+    height:5px;
+    width:4px;
+    border-radius: 3px;
+    background-color: black;
+    position: relative;
+    top:20px;
+    left:3px;
+}
+.nose{
+    border:1px solid red;
+    height:12px;
+    width:12px;
+    border-radius: 50%;
+    background-color: red;
+    position: relative;
+    top:10px;
+    left:45px;
+}
+.line{
+    border:1px solid black;
+    height:40px;
+    width:0px;
+    border-radius: 3px;
+    background-color: black;
+    position: relative;
+    top:10px;
+    left:52px;
+}
